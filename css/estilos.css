@@ -1,0 +1,13 @@
+header,main, footer {
+   background-color: rgba(127, 255, 212, 0.504);
+   
+   
+}  
+    
+
+
+
+h1, nav{
+    color: white;
+    background-color: blue;
+}
